@@ -1833,7 +1833,7 @@ body {
 .cid-rphobgrKAT {
   padding-top: 60px;
   padding-bottom: 15px;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-rphobgrKAT .mbr-text {
   color: #716c80;
@@ -1851,7 +1851,7 @@ body {
 }
 .cid-rphobgrKAT .mbr-iconfont {
   transition: all 0.3s;
-  color: #ffffff !important;
+  color: #244e16 !important;
   font-size: 3rem !important;
 }
 .cid-rphobgrKAT .card {
